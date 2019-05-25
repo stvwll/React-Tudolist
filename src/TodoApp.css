@@ -1,0 +1,19 @@
+.btn_add{
+    margin-left:10px;
+}
+.del_pic{
+    height:10px;
+    width: 10px;
+    cursor:pointer;
+    margin-left:28px;
+}
+.content li{
+    display:inline-block;
+    margin-right:10px;
+    cursor:pointer;
+   
+}
+.li_value{
+    width:190px;
+}
+
