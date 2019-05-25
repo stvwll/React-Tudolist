@@ -1,6 +1,6 @@
 # React-Tudolist
 
-两人合作完成（GF、WLL）
+两人合作完成
 
 用react完成一个纯前端应用TodoList，实现以下需求：
 
@@ -14,5 +14,4 @@
 
   可以删除事项
 
-# Then you can open your browser and open http://localhost:3000/ to see this demo.
 
